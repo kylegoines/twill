@@ -50,8 +50,6 @@
   </div>
 </div>
 
-<x-twilldocs::footer/>
-
 {{-- DEV MODE grid --}}
 {{-- <x-twilldocs::devTools /> --}}
 </body>
